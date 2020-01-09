@@ -1,0 +1,24 @@
+#numbers {
+    margin: auto;
+    width: 400px;
+    height: 450px;
+    text-align: center;
+}
+
+.number {
+    display: inline-block;
+    background: rgba(255, 127, 80);
+    margin: 15px;
+    padding-top: 25px;
+    font-size: 40px;
+    width: 100px;
+    height: 75px;
+}
+
+#submitnew{
+    float: left;
+}
+
+h1{
+    text-align: center;
+}
